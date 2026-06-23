@@ -14,7 +14,7 @@ Built by **Prajwal Reddy R** for the [Digital Heroes](https://digitalheroesco.co
 
 ## 🔗 Live Demo
 
-**[👉 Add your Vercel URL here after deploy]**
+https://stack-decider.vercel.app/
 
 ---
 

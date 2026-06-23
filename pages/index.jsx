@@ -992,7 +992,7 @@ export default function StackDecider() {
 
         <div style={{ textAlign:"center", marginBottom:44, animation:"fadeUp 0.6s ease" }}>
           <div style={{ display:"inline-flex", alignItems:"center", gap:7, background:t.tagBg, color:t.tagText, fontSize:11, fontWeight:700, padding:"5px 14px", borderRadius:99, border:`1px solid ${t.border}`, marginBottom:18, letterSpacing:0.5 }}>
-            ✨ INSTANT · FREE · UNLIMITED
+            ✨ INSTANT · FREE 
           </div>
           <h1 style={{ fontFamily:"'Space Grotesk',sans-serif", fontSize:"clamp(26px,5vw,44px)", fontWeight:800, margin:"0 0 14px", lineHeight:1.12, color:t.text }}>
             Stop debating stacks.{" "}
@@ -1123,8 +1123,10 @@ export default function StackDecider() {
               ))}
             </div>
             <div style={{ fontSize:12, color:t.textMuted }}>
-              Built by Prajwal Reddy R for 
+                Built by  <span style={{ color: "#4FC3F7", fontWeight: 600 }}> Prajwal Reddy R </span>  for
               <a href="https://digitalheroesco.com" target="_blank" rel="noopener noreferrer" style={{ color:t.accent, textDecoration:"none", fontWeight:600 }}> Digital Heroes</a>
+              <br/>
+              <a href="mailto:reddyrprajwal@gmail.com" style={{ color:t.accent, textDecoration:"none", fontWeight:600 }}>reddyrprajwal@gmail.com</a>
             </div>
           </div>
         )}
